@@ -1,6 +1,6 @@
 {
   "name": "img-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple image conversion tool to convert jpg, png and gif image",
   "main": "index.js",
   "scripts": {
