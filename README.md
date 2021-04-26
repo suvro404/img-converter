@@ -25,8 +25,9 @@ async function convertImg(input) {
     let convertedImgDataObj = await ImgConverter.convert(sourceImageFile, targetImageFormat);
 }
 ```
-###### This convert function will return a converted image data object which includes image name, format and base64 image string.
-###### This base64 image string can be used to download the converted image.
+##### This convert function will return a converted image data object which includes image name, format and base64 image string.
+##### This base64 image string can be used to download the converted image.
+
 ```
 function downloadImg(convertedImgDataObj) {
     let a = document.createElement("a");
