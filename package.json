@@ -1,0 +1,34 @@
+{
+  "name": "img-converter",
+  "version": "1.0.0",
+  "description": "A simple image conversion tool to convert jpg, png and gif image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvro404/img-converter.git"
+  },
+  "keywords": [
+    "image",
+    "converter",
+    "jpg",
+    "png",
+    "gif",
+    "jpg to png",
+    "jpg to gif",
+    "png to jpg",
+    "png to gif",
+    "gif to jpg",
+    "gif to png",
+    "conversion"
+  ],
+  "author": "Suvro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suvro404/img-converter/issues"
+  },
+  "homepage": "https://github.com/suvro404/img-converter#readme"
+}
