@@ -1,6 +1,8 @@
 ## img-converter
 ##### A simple image conversion tool to convert jpg, png and gif image.
 
+### [DEMO](https://suvro404.github.io/img-converter-playground/)
+
 #### Install
 ```
 npm install img-converter
